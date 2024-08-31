@@ -13,14 +13,14 @@
 
 // Insert your network credentials
 #define WIFI_SSID "JioFiber-4_plus"
-#define WIFI_PASSWORD "676543210"
+#define WIFI_PASSWORD "676*****210"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyDuT-ba-2fkXcthXDgZxh8dnxtPwuRFiCE"
+#define API_KEY "AIzaSyDuT-ba-2fkXcthXDgZxh8dnxgjhejhef"
 
 // Insert Authorized Email and Corresponding Password
-#define USER_EMAIL "rescueforce04@gmail.com"
-#define USER_PASSWORD "rescueforce1234"
+#define USER_EMAIL "abc04@gmail.com"
+#define USER_PASSWORD "**********"
 
 // Insert RTDB URLefine the RTDB URL
 #define DATABASE_URL "https://rescueforce-3d798-default-rtdb.asia-southeast1.firebasedatabase.app/"
